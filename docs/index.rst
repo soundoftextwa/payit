@@ -154,8 +154,8 @@ The UAE residents who want digital payment solutions can easily open and use eWa
 Digital wallets such as eWallet develop into indispensable tools for financial transaction management as the UAE proceeds toward a cashless economy. This guide provides straightforward instructions to help users create an eWallet account and join the expanding digital payment user base in the UAE.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Banking Apps
+   :maxdepth: 1
+   :caption: Quick Start
 
-   apps/etisalat
    apps/payit
+   apps/etisalat
