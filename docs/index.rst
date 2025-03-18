@@ -157,5 +157,5 @@ Digital wallets such as eWallet develop into indispensable tools for financial t
    :maxdepth: 1
    :caption: Banking Apps
 
-    apps/etisalat
-    apps/payit
+   apps/etisalat
+   apps/payit
