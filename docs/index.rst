@@ -17,7 +17,7 @@ What is eWallet?
 The digital wallet eWallet operates as a local UAE product under the support of Noor Bank together with Etisalat. The platform serves UAE residents with a protected and user-friendly method to access:
 
 - Send and receive money
-- Pay bills
+- Pay transportation bills (such as `Hafilat Card <https://uaetiming.com/step-by-step-guide-check-and-top-up-your-hafilat-card-balance/>`_ or Nol Card)
 - Shop and dine
 - Make payments directly from your mobile device
 
@@ -159,3 +159,4 @@ Digital wallets such as eWallet develop into indispensable tools for financial t
 
    apps/payit
    apps/etisalat
+   apps/klip
